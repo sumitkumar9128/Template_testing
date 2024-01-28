@@ -1,0 +1,1 @@
+basic tribute page template
